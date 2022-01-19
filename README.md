@@ -1,0 +1,2 @@
+# DockerMini
+docker skolenie
